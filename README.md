@@ -1,6 +1,10 @@
-# Methodology
- 
-## Environment setup
+# App Pentest Methodology
+
+### Argument for a Methodology
+- Provides consistency
+- Success is measurable 
+- Provides reassurance for the client
+
 1. Configure browser.
     - Install Firefox, Chrome, Chromium or similar. If already installed, clear all data
     - install the following extensions: session box, foxy proxy, wappalyzer.  
