@@ -7,7 +7,7 @@
 
 1. Configure browser.
     - Install Firefox, Chrome, Chromium or similar. If already installed, clear all data
-    - install the following extensions: [Session box](https://sessionbox.io/), [Foxy proxy](https://getfoxyproxy.org/), (Wappalyzer)[https://www.wappalyzer.com].  
+    - install the following extensions: [Session box](https://sessionbox.io/), [Foxy proxy](https://getfoxyproxy.org/), [Wappalyzer](https://www.wappalyzer.com).  
 
 2. While proxying traffic through Burpsuite, use the application as a normal user would to populate Burpsuite with data. 
 
