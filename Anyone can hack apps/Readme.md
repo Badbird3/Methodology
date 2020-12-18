@@ -5,3 +5,5 @@ Open 2+ containerized tabs in a browser. Then, authenticate as an Admin in one t
 
 ## Vulnerable Software
 Install Wappalyzer and browse to the application. Open up the extension, if software details/version numbers are present then Google it.  
+
+![test](Anyone can hack apps\wappalyzer example.jpg)
