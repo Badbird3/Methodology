@@ -1,9 +1,3 @@
-# WebSec_Study
-
-# Goal: develop web hacking expertise. 
-
-## Focus 
-
 ### S 
 - injection
  - SQL Injection	// install mysql and learn syntax
